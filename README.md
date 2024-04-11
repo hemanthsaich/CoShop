@@ -7,7 +7,7 @@ CoShop is a comprehensive ecommerce platform tailored specifically for fashion e
 ### Home Screen and Product Listing:
 A visually appealing interface showcasing featured products and categories.
 
-https://www.awesomescreenshot.com/video/26620444?key=be9b75c3fa5fa7f1f0c945df3c11ddbe
+  ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/8bc8a8e6-4ddb-4757-b266-63929e4a3bbd)
 
 ### Product Details and Rating Component:
 Comprehensive product details, including specifications, pricing, availability, and user reviews.
