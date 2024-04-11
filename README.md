@@ -51,10 +51,12 @@ Centralized dashboard for administrators, facilitating user, product, and order 
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/94a95927-7ac4-45e8-8ea8-811caf01716c)
 
   
-### Product Reviews and Search:
-User-generated product reviews and advanced search functionality for efficient product discovery.
-  
+### Product Search Functionality:
+User-generated product advanced search functionality for efficient product discovery.
 
+![image](https://github.com/hemanthsaich/CoShop/assets/91429511/9ed9da5a-cdc3-4a0f-9847-1d04e6f76250)
+
+  
 ## Technologies Used
 
 - **Frontend:** React, Redux, Reach-Bootstrap
