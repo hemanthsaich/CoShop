@@ -4,16 +4,20 @@ CoShop is a comprehensive ecommerce platform tailored specifically for fashion e
 
 ## Features
 
-- **Home Screen and Product Listing:** A visually appealing interface showcasing featured products and categories.
+### Home Screen and Product Listing:
+A visually appealing interface showcasing featured products and categories.
   
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/8bc8a8e6-4ddb-4757-b266-63929e4a3bbd)
 
-- **Product Details and Rating Component:** Comprehensive product details, including specifications, pricing, availability, and user reviews.
+### Product Details and Rating Component:
+Comprehensive product details, including specifications, pricing, availability, and user reviews.
 
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/a8dc611f-d0f3-43c2-9f97-0187c181f5fe)
 
   
-- **Shopping Cart and Checkout Process:** Seamless management of cart contents, with step-by-step checkout flow for order review, shipping selection, and payment details.
+  ### Shopping Cart and Checkout Process:
+  Seamless management of cart contents, with step-by-step checkout flow for order review, shipping selection, and payment details.
+
 
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/d97f1526-c2d5-4b39-a3ad-de28d4289c82)
 
@@ -24,7 +28,9 @@ CoShop is a comprehensive ecommerce platform tailored specifically for fashion e
    ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/dbe45bad-d16f-41f4-92f8-775f298a6fe7)
   
 
-- **User Authentication:** Secure user registration, login, and profile management functionalities, ensuring privacy and access control.
+### User Authentication:
+ Secure user registration, login, and profile management functionalities, ensuring privacy and access control.
+
 
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/0c56fdcf-8e36-4b09-8479-ec00eb27d703)
   
@@ -33,7 +39,8 @@ CoShop is a comprehensive ecommerce platform tailored specifically for fashion e
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/173b4039-f1d8-4608-bd75-8b3dad7e9332)
 
   
-- **Admin Panel and Management Functionalities:** Centralized dashboard for administrators, facilitating user, product, and order management.
+### Admin Panel and Management Functionalities:
+Centralized dashboard for administrators, facilitating user, product, and order management.
 
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/8c603909-5052-45fa-a48f-6df25091bcd9)
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/c7138484-8471-4efe-af49-b6abe00b3d29)
@@ -44,7 +51,8 @@ CoShop is a comprehensive ecommerce platform tailored specifically for fashion e
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/94a95927-7ac4-45e8-8ea8-811caf01716c)
 
   
-- **Product Reviews and Search:** User-generated product reviews and advanced search functionality for efficient product discovery.
+### Product Reviews and Search:
+User-generated product reviews and advanced search functionality for efficient product discovery.
   
 
 ## Technologies Used
