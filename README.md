@@ -66,7 +66,7 @@ User-generated product reviews and advanced search functionality for efficient p
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/coshop.git
+git clone https://github.com/hemanthsaich/CoShop.git
 ```
 
 ### 2. Navigate to the project directory:
