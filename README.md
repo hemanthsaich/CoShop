@@ -19,11 +19,11 @@ CoShop is a comprehensive ecommerce platform tailored specifically for fashion e
 
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/a11ad269-cace-4cda-9195-537307fc17e6)
 
-  ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/dbe45bad-d16f-41f4-92f8-775f298a6fe7)
-  
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/803f1d45-68a1-43dc-b402-60c2fcbe0b5e)
 
+   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/dbe45bad-d16f-41f4-92f8-775f298a6fe7)
   
+
 - **User Authentication:** Secure user registration, login, and profile management functionalities, ensuring privacy and access control.
 
   ![image](https://github.com/hemanthsaich/CoShop/assets/91429511/0c56fdcf-8e36-4b09-8479-ec00eb27d703)
