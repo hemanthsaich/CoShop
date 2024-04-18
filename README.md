@@ -107,3 +107,4 @@ python manage.py runserver
 http://localhost:3000
 ```
 
+### Feel free to report bugs.
