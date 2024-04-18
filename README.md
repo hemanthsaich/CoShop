@@ -108,3 +108,4 @@ http://localhost:3000
 ```
 
 ### Feel free to report bugs.
+<a href="https://linkedin.com/in/hemanthsaich" target="blank"><img align="center" src="[https://github.com/hemanthsaich/CoShop/assets/91429511/05d4eb19-d6fd-4687-b300-2a995601c840](https://github.com/hemanthsaich/CoShop/assets/91429511/05d4eb19-d6fd-4687-b300-2a995601c840)" alt="hemanthsaich" height="30" width="40" /></a>
