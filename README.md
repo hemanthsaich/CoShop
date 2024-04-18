@@ -108,4 +108,4 @@ http://localhost:3000
 ```
 
 ### Feel free to report bugs.
-<a href="https://linkedin.com/in/hemanthsaich" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="hemanthsaich" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hemanthsaich" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="hemanthsaich" height="30" width="70" /></a>
