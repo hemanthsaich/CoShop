@@ -107,8 +107,3 @@ python manage.py runserver
 http://localhost:3000
 ```
 
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the CoShop platform.
-
-## Acknowledgements
-Special thanks to the contributors and developers who have contributed to the CoShop project.
