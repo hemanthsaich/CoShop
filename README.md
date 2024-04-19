@@ -59,7 +59,7 @@ User-generated product advanced search functionality for efficient product disco
   
 ## Technologies Used
 
-- **Frontend:** React, Redux, Reach-Bootstrap
+- **Frontend:** React, Redux, React-Bootstrap
 - **Backend:** Django, MySQL
 - **Authentication:** JSON Web Tokens (JWT)
 
