@@ -22,6 +22,7 @@ import OrderListScreen from './screens/OrderListScreen';
 import Womens from './components/Womens';
 import Electronics from './components/Electronics';
 import Footwear from './components/Footwear';
+import Foots from './components/Footwear';
 
 
 function App() {
